@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: 
 subtitle:PhD student in Operations Research at The Ohio State University
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
