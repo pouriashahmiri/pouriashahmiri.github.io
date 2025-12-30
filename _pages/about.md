@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: 
-subtitle:PhD student in Operations Research at The Ohio State University
+subtitle: PhD student in Operations Research at The Ohio State University
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
