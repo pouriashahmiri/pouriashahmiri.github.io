@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting our research with Professor Bayraksan on the 2026 INFORMS OPTIMIZATION SOCIETY CONFERENCE in March.
+I will be presenting our research at the 2026 INFORMS Optimization Society Conference in March 2026.
