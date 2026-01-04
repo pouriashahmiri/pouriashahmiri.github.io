@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-presenting-our-research-at-the-2026-informs-optimization-society-conference-in-march-2026",
-          title: 'I will be presenting our research at the 2026 INFORMS Optimization Society Conference...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
